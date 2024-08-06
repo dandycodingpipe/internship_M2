@@ -1,4 +1,4 @@
-# the KOLOR package : 
+# the pyKOLOR package : 
 Processing Philips Spectral Photon Counting images quickly and interactively on python.
 
 ## Soon!
