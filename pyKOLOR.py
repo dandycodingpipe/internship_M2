@@ -33,7 +33,6 @@ class Sample:
         del self.acquisition[idx]
         return self.acquisition
     
-<<<<<<< HEAD
     def extract_number(self, filename):
         """
         Extracts the first sequence of digits from a given filename.
@@ -42,10 +41,6 @@ class Sample:
         match = re.search(r"\d+", filename)
         return int(match.group()) if match else 0
     
-=======
-    
-    #TODO: remove from this class
->>>>>>> f1472315891d395ab97823091f5182585c285c24
     def fetch_data(self, study_path, sample_idx):
         """
         This function is the bread and butter of the sample class. It pulls your data according to the desired study and the desired sample.
