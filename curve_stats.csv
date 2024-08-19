@@ -1,0 +1,9 @@
+region,statistic,p_value,mean_diff
+aorta,15,0.0625,0.267080418
+vena cava,15,0.0625,0.247518577
+left cortex,15,0.0625,0.517069659
+right cortex,14,0.125,0.314027101
+left medulla,15,0.0625,0.666015774
+right medulla,15,0.0625,0.392968796
+left pelvis,12,0.3125,0.931144341
+right pelvis,13,0.1875,0.783491497
